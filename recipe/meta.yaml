@@ -1,5 +1,5 @@
 {% set name = "mistletoe" %}
-{% set version = "0.9.0" %}
+{% set version = "1.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mistletoe-{{ version }}.tar.gz
-  sha256: 3cb96d78226d08f0d3bf09efcaf330d23902492006e18b2c06558e8b86bf7faf
+  sha256: fa0e9c57e2050cfd68ae304e4f9c5e1e693574cc5fd8323db33452949d682661
 
 build:
   entry_points:
