@@ -1,11 +1,11 @@
-About mistletoe
-===============
+About mistletoe-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mistletoe-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/miyuchina/mistletoe
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mistletoe-feedstock/blob/main/LICENSE.txt)
 
 Summary: A fast, extensible Markdown parser in pure Python.
 
